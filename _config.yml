@@ -1,0 +1,13 @@
+# GitHub Pages Configuration
+name: Daniel Hardej
+title: Daniel Hardej
+description: Personal website hosted on GitHub Pages
+
+# Build settings
+markdown: kramdown
+theme: null
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
